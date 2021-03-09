@@ -6,7 +6,7 @@
 - 👋 My name is **João Pedro Santiago** and I'm 19.
 - 📌 São Paulo, Brazil.
 - 💼 Software Engineer.
-- 🎓 Computer Sciense student.
+- 🎓 Computer Science student.
 
 <hr>
 
