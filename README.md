@@ -21,12 +21,12 @@
  
 [![jpssantiago github stats](https://github-readme-stats.vercel.app/api?username=jpssantiago&theme=cobalt&show_icons=true)](https://github.com/jpssantiago/github-readme-stats)
 
-### 📈  linguagens mais usadas 
+### 📈  Top languages
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpssantiago&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 <hr>
 
-## ✅ Entre em contato! ✉️
+## ✅ Get in touch with me ✉️
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jpssantiago)](https://www.linkedin.com/in/jpssantiago/)
  ![Mail Badge](https://img.shields.io/badge/My%20e--mail-jps__santiago%40outlook.com-informational)
