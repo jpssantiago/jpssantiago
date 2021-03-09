@@ -29,5 +29,5 @@
 ## ✅ Entre em contato! ✉️
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jpssantiago)](https://www.linkedin.com/in/jpssantiago/)
- [![Gmail Badge](https://img.shields.io/badge/-jps__santiago%40outlook.com-informational&link=mailto:jps_santiago@outlook.com)](mailto:jps_santiago@outlook.com)
+ [![Mail Badge](https://img.shields.io/badge/-jps__santiago%40outlook.com-informational)](mailto:jps_santiago@outlook.com)
 
