@@ -11,7 +11,7 @@
 <hr>
 
 ### ⚡ Coding skills:
-- ![JavaScript](https://aleen42.github.io/badges/src/javascript.svg) ![TypeScript](https://aleen42.github.io/badges/src/typescript.svg) ![React](https://aleen42.github.io/badges/src/react.svg) ![Angular](https://aleen42.github.io/badges/src/angular.svg) ![Redux](https://aleen42.github.io/badges/src/redux.svg) ![Vue](https://aleen42.github.io/badges/src/vue.svg) ![Node](https://aleen42.github.io/badges/src/node.svg) ![Docker](https://aleen42.github.io/badges/src/docker.svg) ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+- ![JavaScript](https://aleen42.github.io/badges/src/javascript.svg) ![TypeScript](https://aleen42.github.io/badges/src/typescript.svg) ![React](https://aleen42.github.io/badges/src/react.svg) ![Angular](https://aleen42.github.io/badges/src/angular.svg) ![Redux](https://aleen42.github.io/badges/src/redux.svg) ![Vue](https://aleen42.github.io/badges/src/vue.svg) ![Node](https://aleen42.github.io/badges/src/node.svg) ![Docker](https://aleen42.github.io/badges/src/docker.svg) ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF)
 
 ### 📦 Databases:
 - ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
