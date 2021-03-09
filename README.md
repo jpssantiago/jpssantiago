@@ -4,9 +4,9 @@
 
 ### 🧑🏾About me :seedling: : 
 - 👋 My name is **João Pedro Santiago** and I'm 19.
-- 📌 I'm from São Paulo, Brazil.
-- 💼 I'm a Software Engineer.
-- 🎓 I'm a Computer Sciense student.
+- 📌 São Paulo, Brazil.
+- 💼 Software Engineer.
+- 🎓 Computer Sciense student.
 
 <hr>
 
