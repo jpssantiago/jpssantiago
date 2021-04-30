@@ -2,6 +2,9 @@
 	🚀🚀 Welcome 🚀🚀
 </h1>
 
+Leia em <a href="https://github.com/jpssantiago/jpssantiago/blob/master/README.pt-br.md">Português</a>
+Read in <a href="https://github.com/jpssantiago/jpssantiago/blob/master/README.md">English</a>
+
 ### 🧑🏾About me :seedling: : 
 - 👋 My name is **João Pedro Santiago** and I'm 19.
 - 📌 São Paulo, Brazil.
