@@ -7,7 +7,7 @@ Leia em <a href="https://github.com/jpssantiago/jpssantiago/blob/master/README.p
 Read in <a href="https://github.com/jpssantiago/jpssantiago/blob/master/README.md">English</a>
 
 ### 🧑🏾 Sobre :seedling: : 
-- 👋 Me chamo **João Pedro Santiago** e tenho 19 anos.
+- 👋 Me chamo **João Pedro Santiago** e tenho 20 anos.
 - 📌 Sou de São Paulo, Brasil.
 - 💼 Desenvolvedor Front-end | Mobile.
 - 🎓 Estudante de Ciência da Computação na Universidade Anhembi Morumbi.
