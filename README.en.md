@@ -7,7 +7,7 @@ Leia em <a href="https://github.com/jpssantiago/jpssantiago/blob/master/README.p
 Read in <a href="https://github.com/jpssantiago/jpssantiago/blob/master/README.md">English</a>
 
 ### 🧑🏾About me :seedling: : 
-- 👋 My name is **João Pedro Santiago** and I'm 20.
+- 👋 My name is **João Pedro Santiago** and I'm 21.
 - 📌 São Paulo, Brazil.
 - 💼 Software Engineer.
 - 🎓 Computer Science student.
