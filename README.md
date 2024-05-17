@@ -1,36 +1,10 @@
-<h1 align="center"> 
-	🚀🚀 Olá, seja bem-vindo 🚀🚀
-</h1>
+# João Pedro Santiago
 
-Leia em <a href="https://github.com/jpssantiago/jpssantiago/blob/master/README.md">Português</a>
-|
-Read in <a href="https://github.com/jpssantiago/jpssantiago/blob/master/README.en.md">English</a>
+[![Instagram Badge](https://img.shields.io/badge/-@iamjoaosantiago-1A4860?style=flat-square&labelColor=1A4860&logo=instagram&logoColor=white&link=https://instagram.com/iamjoaosantiago)](https://instagram.com/iamjoaosantiago) 
+[![Linkedin Badge](https://img.shields.io/badge/-João%20Santiago-3957BD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jpssantiago/)](https://www.linkedin.com/in/jpssantiago/) 
+[![Gmail Badge](https://img.shields.io/badge/-joao@joaosantiago.com.br-6AA959?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao@joaosantiago.com.br)](mailto:joao@joaosantiago.com.br)
+[![WWW Badge](https://img.shields.io/badge/-www.joaosantiago.com.br-406E93?style=flat-square&logo=icloud&logoColor=white&link=https://www.joaosantiago.com.br/)](https://www.joaosantiago.com.br/) 
 
-### 🧑🏾 Sobre :seedling: : 
-- 👋 Me chamo **João Pedro Santiago** e tenho 21 anos.
-- 📌 Sou de São Paulo, Brasil.
-- 💼 Desenvolvedor Front-end | Mobile.
-- 🎓 Estudante de Ciência da Computação na Universidade Anhembi Morumbi.
+My name is João Santiago and I'm a Software Engineer.
 
-<hr>
-
-### ⚡ Linguagens que domino:
-- ![Flutter](https://img.shields.io/badge/-Flutter-blue) ![JavaScript](https://aleen42.github.io/badges/src/javascript.svg) ![TypeScript](https://aleen42.github.io/badges/src/typescript.svg) ![React](https://aleen42.github.io/badges/src/react.svg) ![Angular](https://aleen42.github.io/badges/src/angular.svg) ![Redux](https://aleen42.github.io/badges/src/redux.svg) ![Vue](https://aleen42.github.io/badges/src/vue.svg) ![Node](https://aleen42.github.io/badges/src/node.svg) ![Docker](https://aleen42.github.io/badges/src/docker.svg) ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/-Java-yellow) 
-
-### 📦 Banco de dados:
-- ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF) ![MongoDB](https://img.shields.io/badge/-MongoDB-success)
-
-
-### :bulb:  Estatísticas
- 
-[![jpssantiago github stats](https://github-readme-stats.vercel.app/api?username=jpssantiago&theme=cobalt&show_icons=true)](https://github.com/jpssantiago/github-readme-stats)
-
-### 📈  Linguagens mais usadas por mim
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpssantiago&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
-
-<hr>
-
-## ✅ Entre em contato comigo ✉️
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jpssantiago)](https://www.linkedin.com/in/jpssantiago/)
- ![Mail Badge](https://img.shields.io/badge/Meu%20e--mail-jps__santiago%40outlook.com-informational)
+As a front-end developer, I'm deeply passionate about crafting innovative solutions using JavaScript and TypeScript. Armed with a degree in Computer Science from UAM, I've honed my skills in programming, system design, and prototyping.
